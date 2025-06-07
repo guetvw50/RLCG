@@ -1,0 +1,1202 @@
+[
+    {
+        "prompt1": "A bear eating salmon",
+        "prompt2": "A person eating salmon",
+        "description1": "A bear is in a river catching a fish.\nA bear is eating a whole raw salmon fish.",
+        "description2": "A person is eating from a plate.\nA person is eating cooked salmon fillet(s).",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A lightbulb without electricity",
+        "prompt2": "A lightbulb with electricity",
+        "description1": "The lightbulb is unlit.",
+        "description2": "The lightbulb is lit.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A chef enjoying her vacation",
+        "prompt2": "A chef working",
+        "description1": "A woman is in her causal clothes\nThe woman is not in a kitchen.",
+        "description2": "A chef is in a cooking uniform\nA chef is in the kitchen.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A peacock sleeping",
+        "prompt2": "A peacock attracting a mate",
+        "description1": "A peacock has its feathers closed.",
+        "description2": "A peacock has its colorful feathers fully open.",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "An apple tree in spring",
+        "prompt2": "An apple tree in autumn",
+        "description1": "A tree has white flowers in full bloom.",
+        "description2": "A tree has ripe apples.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A chameleon blending in with a brown leaf",
+        "prompt2": "A chameleon blending in with a green leaf",
+        "description1": "A chameleon turns brown.",
+        "description2": "A chameleon turns green.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A caterpillar during metamorphosis",
+        "prompt2": "A caterpillar after metamorphosis",
+        "description1": "There is a cocoon.",
+        "description2": "There is a butterfly.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A balloon filled with helium in the bedroom",
+        "prompt2": "A balloon filled with air in the bedroom",
+        "description1": "The balloon is floating.\nThe balloon is reaching the ceiling.",
+        "description2": "The balloon stays on the floor.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A piece of butter in a heated pan",
+        "prompt2": "A piece of butter in a cold pan",
+        "description1": "The piece of butter is melting.",
+        "description2": "The piece of butter remains solid.\nThe piece of butter is not melting.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A cup of oil mixed with water",
+        "prompt2": "A cup of oil",
+        "description1": "The cup contains a separated layer of oil floating above water.",
+        "description2": "The cup is filled with yellowish oil.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A pine tree in winter",
+        "prompt2": "A cherry tree in winter",
+        "description1": "The tree has fresh green leaves.",
+        "description2": "The tree has bare branches.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A flag on a pole on a windless day",
+        "prompt2": "A flag on a pole on a windy day",
+        "description1": "The flag is hanging down from the pole.",
+        "description2": "The flag is blowing in the wind.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Alexander graham bell making a call",
+        "prompt2": "A college student making a call",
+        "description1": "A person is holding a handset.",
+        "description2": "A person is holding a mobile phone.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A cup of coffee with no milk",
+        "prompt2": "A cup of milk coffee",
+        "description1": "The cup contains black coffee.",
+        "description2": "The cup of coffee has a yellowish color.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A candle in space",
+        "prompt2": "A candle",
+        "description1": "The candle is not burning.",
+        "description2": "The candle is burning.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A cracked egg in a cold pan",
+        "prompt2": "A cracked egg in a hot pan",
+        "description1": "The egg white and yolk are raw.",
+        "description2": "There is a cooked fried egg with white and yolk.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A monkey eating a banana",
+        "prompt2": "A monkey holding a banana",
+        "description1": "A monkey is eating the white pulp of a peeled banana.",
+        "description2": "A monkey is holding an unpeeled banana.",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "An ice cube in a warm room",
+        "prompt2": "An ice cube in a freezer",
+        "description1": "The ice cube is melting with a puddle of water.",
+        "description2": "The ice cube is solid with no puddles around.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "An apple slice that's been sitting out on the table for a few hours",
+        "prompt2": "A freshly cut apple slice",
+        "description1": "The apple slice has browned flesh.",
+        "description2": "The apple slice has white flesh.",
+        "category": "Biological Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Rarely watered flowers",
+        "prompt2": "Regularly watered flowers",
+        "description1": "The flowers are wilting.",
+        "description2": "The flowers are fresh.",
+        "category": "Biological Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A car speeding through a puddle",
+        "prompt2": "A car parked above a puddle",
+        "description1": "The car creates a large splash of water.",
+        "description2": "The non-moving car is on a calm watery surface.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A punctured car tire",
+        "prompt2": "A car tire",
+        "description1": "The car tire is flat.",
+        "description2": "The car tire is firm and inflated.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "Marshmallow over a bonfire",
+        "prompt2": "Marshmallow in a bag",
+        "description1": "The marshmallow becomes blackened and charred.",
+        "description2": "The marshmallow remains white and puffy.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A glass of water mixed with sugar",
+        "prompt2": "A glass of oil mixed with sugar",
+        "description1": "The glass contains clear water.",
+        "description2": "The glass has sugar granules at the bottom.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A popular restaurant after closing hours",
+        "prompt2": "A popular restaurant during lunchtime",
+        "description1": "The restaurant is empty.",
+        "description2": "The restaurant is crowded.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Used charcoals",
+        "prompt2": "Unused charcoals",
+        "description1": "The charcoals are mostly white.",
+        "description2": "The charcoals remain black.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A lightbulb that's on but the filament's broken",
+        "prompt2": "A lightbulb that's on",
+        "description1": "The bulb remains unlit.",
+        "description2": "The bulb is bright.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A premature banana",
+        "prompt2": "An overripe banana",
+        "description1": "The banana is green.",
+        "description2": "The banana is yellow with dark spots.",
+        "category": "Biological Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A loaf of bread fresh out of the oven",
+        "prompt2": "A loaf of bread ready to be baked",
+        "description1": "The dough becomes a firm and golden-brown baked pastry.",
+        "description2": "The dough is a white and soft lump.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A soda can opened after violently shaken",
+        "prompt2": "A soda can opened slowly",
+        "description1": "The opened soda can erupts with foam.",
+        "description2": "The soda can is cleanly opened.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A crowded crosswalk with a red pedestrian signal",
+        "prompt2": "A crowded crosswalk with a green pedestrian signal",
+        "description1": "No one is crossing the street.",
+        "description2": "Many people are crossing the street.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A conductor after the concert",
+        "prompt2": "A conductor in the middle of the concert",
+        "description1": "The conductor is idle and not waving the baton.",
+        "description2": "The conductor is concentrated and actively waving the baton.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A track athlete waiting for the starting gun",
+        "prompt2": "A track athlete competing in a race",
+        "description1": "The athlete is in the starting block position.",
+        "description2": "The athlete is running.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A construction worker enjoying family time after work",
+        "prompt2": "A construction worker work",
+        "description1": "A person is in casual attire and with family at home.",
+        "description2": "A person is wearing a safety hat and construction uniform at a construction site.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Bats during the day",
+        "prompt2": "Bats during the night",
+        "description1": "Bats are hanging upside down and inside a house or a cave.",
+        "description2": "Bats are actively flying around.",
+        "category": "Animal Behaviors",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A butterfly on a rainy day",
+        "prompt2": "A butterfly on a sunny day",
+        "description1": "A butterfly is hiding under a shelter.",
+        "description2": "A butterfly is fluttering in the open.",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A person eating sushi",
+        "prompt2": "A person eating a burger",
+        "description1": "A person is eating with chopsticks.",
+        "description2": "A person is eating with hands.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A budding dandelion",
+        "prompt2": "A mature dandelion",
+        "description1": "A yellow flower is about to blossom.",
+        "description2": "A dandelion has fluffy seeds ready to disperse.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A pine tree in severe drought",
+        "prompt2": "A pine tree well-watered",
+        "description1": "The tree has wilted brown leaves.",
+        "description2": "The tree has fresh green leaves.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "Hungry baby birds",
+        "prompt2": "Sleeping baby birds",
+        "description1": "Baby birds have their mouths open.",
+        "description2": "Sleeping birds are lying together in the nest.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An oak tree in winter",
+        "prompt2": "An oak tree in spring",
+        "description1": "The tree has bare branches with no leaves.",
+        "description2": "The tree has green leaves.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "The dish of a person just finishing eating",
+        "prompt2": "The dish of a person just beginning to eat",
+        "description1": "An empty plate has no food in it.",
+        "description2": "A dish is filled with food.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A premature avocado",
+        "prompt2": "An overripe avocado",
+        "description1": "A small, round, green fruit is seen.",
+        "description2": "A blackened avocado with spots on it is observed.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A mirror in a room without light",
+        "prompt2": "A mirror in a room with light",
+        "description1": "A barely visible room is reflected.",
+        "description2": "The mirror is reflecting a room.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A burning matchstick dipped into water",
+        "prompt2": "A burning matchstick in the air",
+        "description1": "The matchstick is nearly extinguished with a blackened tip.",
+        "description2": "The matchstick is on fire.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A punctured party balloon",
+        "prompt2": "A party balloon",
+        "description1": "The balloon is wrinkled and flat.",
+        "description2": "The balloon is fully inflated.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A piece of paper in water",
+        "prompt2": "A piece of paper on a desk",
+        "description1": "The paper is completely wet and soaked.",
+        "description2": "The paper is dry and clean.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A glass of water dropped on the floor",
+        "prompt2": "A glass of water placed on a table",
+        "description1": "Water and a shattered glass are on the floor.",
+        "description2": "An intact glass of water is on the table with no water spilled.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A heated metal rod",
+        "prompt2": "A cold metal rod",
+        "description1": "The metal rod is red-hot and glowing.",
+        "description2": "The rod appears as a normal looking, silver metal.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A pebble in the water",
+        "prompt2": "A pebble near the water",
+        "description1": "The pebble is submerged in water.",
+        "description2": "The pebble is out of water.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A matchstick struck against a matchbox",
+        "prompt2": "A matchstick struck against a glass",
+        "description1": "The matchstick is burning with flame.",
+        "description2": "The matchstick remains unlit.",
+        "category": "Daily Items",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "An egg dropped on the floor",
+        "prompt2": "An egg in a carton",
+        "description1": "The egg is broken with yolk and white spilled out.",
+        "description2": "The egg is intact.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A full cup of water tipped over on a table",
+        "prompt2": "An empty cup tipped over",
+        "description1": "Water is spilled from the tipped-over cup across the surface.",
+        "description2": "No water is spilled from the tipped-over empty cup.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A lamp with the knob switched off",
+        "prompt2": "A lamp with the knob switched on",
+        "description1": "The lamp is unlit.",
+        "description2": "The lamp is lighting up.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A cup of water properly mixed with salt",
+        "prompt2": "A cup of water with salt just added",
+        "description1": "The cup of water is transparent with no salt granules.",
+        "description2": "The cup of water has white salt granules.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Maple leaves during summer",
+        "prompt2": "Maple leaves during autumn",
+        "description1": "The maple leaves are lush and green.",
+        "description2": "The maple leaves are vividly colored in red and orange.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A rarely watered lawn",
+        "prompt2": "A regularly watered lawn",
+        "description1": "The lawn is covered with dry, brown grass.",
+        "description2": "The lawn is covered with lush, green grass.",
+        "category": "Biological Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "Tulips in winter",
+        "prompt2": "Tulips in spring",
+        "description1": "The tulips are wilting.",
+        "description2": "The tulips are blooming.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A night sky on a new moon night",
+        "prompt2": "A night sky on a full moon night",
+        "description1": "The night sky is dark without a moon.",
+        "description2": "The sky features a fully illuminated moon.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A bride during the honeymoon",
+        "prompt2": "A bride during the wedding",
+        "description1": "The woman is in casual attire.",
+        "description2": "The bride is in a wedding dress.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A koala eating",
+        "prompt2": "A tiger eating",
+        "description1": "A koala is eating green leaves.",
+        "description2": "A tiger is eating a piece of meat.",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "An eating gorilla",
+        "prompt2": "A resting gorilla",
+        "description1": "A gorilla is eating vegetables and fruits.",
+        "description2": "A gorilla is relaxing on the ground.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Soccer players after hearing a foul whistle in a game",
+        "prompt2": "Soccer players in the middle of the game",
+        "description1": "Players on the field stop chasing the ball.",
+        "description2": "Players are moving around chasing a soccer ball.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A book left open in the rain",
+        "prompt2": "A book left open",
+        "description1": "The open book has wet and soaked pages.",
+        "description2": "The open book has dry pages.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A penguin sliding on ice",
+        "prompt2": "A penguin walking on ice",
+        "description1": "A penguin is sliding on its belly.",
+        "description2": "A penguin is standing on its feet.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A spider setting up its residence",
+        "prompt2": "A spider exploring its surroundings",
+        "description1": "A spider is spinning a web.",
+        "description2": "A spider is moving around without a web.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A sandcastle after being hit by a strong wave",
+        "prompt2": "A sandcastle",
+        "description1": "The sandcastle is collapsed in wet sand.",
+        "description2": "A perfect sandcastle is made with dry sand.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A glass window hit by a rock",
+        "prompt2": "A glass window",
+        "description1": "The window has many cracks.",
+        "description2": "The window is clean with no cracks.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A brick hit with a sledgehammer",
+        "prompt2": "A brick",
+        "description1": "There is a pile of shattered brick debris.",
+        "description2": "The brick remains undamaged.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A person's face when watching a sad movie",
+        "prompt2": "A person's face when watching a comedy",
+        "description1": "A person has a sad look.",
+        "description2": "A person has a joyous look.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A person's face when watching a horror movie",
+        "prompt2": "A person's face when watching soup opera",
+        "description1": "A horrified person is watching in fright.",
+        "description2": "A relaxed person is watching in comfort.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A person receiving bad news",
+        "prompt2": "A person receiving good news",
+        "description1": "A person has a shocked and dejected expression.",
+        "description2": "A person has a pleased expression.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "Newly hatched eggs",
+        "prompt2": "Freshly laid eggs",
+        "description1": "Egg shells are cracking open and chickens are walking out.",
+        "description2": "There are fresh, intact eggs.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "An uncapped water bottle turning upside down",
+        "prompt2": "A capped water bottle turning upside down",
+        "description1": "Water is pouring from the upside-down bottle.",
+        "description2": "No water is pouring from the upside-down bottle.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A phone with a drained battery",
+        "prompt2": "A phone with a fully charged battery",
+        "description1": "The phone has a dark screen.",
+        "description2": "The phone has a functional screen.",
+        "category": "Daily Items",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A person's reaction to winning a competition",
+        "prompt2": "A person's reaction to losing a competition",
+        "description1": "The person is excited and cheering.",
+        "description2": "The person is disappointed and sad.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A person's reaction to losing a job",
+        "prompt2": "A person's reaction to getting promoted",
+        "description1": "The person is upset and worried.",
+        "description2": "The person is happy and elated.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A girl's face when she is scolded",
+        "prompt2": "A girl's face when she is praised",
+        "description1": "The girl is angry and upset.",
+        "description2": "The girl is happy and proud.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A bedroom at night with no electricity",
+        "prompt2": "A bedroom at night",
+        "description1": "The room is completely dark.",
+        "description2": "The bedroom has dim lights on.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A passenger with her cat on the plane",
+        "prompt2": "A woman with her cat at home",
+        "description1": "The person has a cat in a carrier.",
+        "description2": "The person has a cat not in a carrier.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A shopper's cart before she buys anything",
+        "prompt2": "A shopper's cart after she buys a lot of goods",
+        "description1": "The cart is empty.",
+        "description2": "The cart is loaded with goods.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A nurse vaccinating the patient",
+        "prompt2": "A nurse washing hands",
+        "description1": "The nurse is wearing latex gloves.",
+        "description2": "The nurse is not wearing gloves.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An unripe apple",
+        "prompt2": "A ripe apple",
+        "description1": "The apple is green.",
+        "description2": "The apple is red.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A bee on a rainy day",
+        "prompt2": "A bee on a sunny day",
+        "description1": "A bee is taking shelter under a leaf or flower.",
+        "description2": "A bee is flying around flowers.",
+        "category": "Animal Behaviors",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "An unused firecracker",
+        "prompt2": "A firecracker in use",
+        "description1": "The firecracker is unlit.",
+        "description2": "The lit firecracker is exploding fiercely.",
+        "category": "Daily Items",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A child's reaction to getting a new toy",
+        "prompt2": "A child's reaction to her parent taking her toys away",
+        "description1": "The child is excited and happy.",
+        "description2": "The child is angry and upset.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A person exhaling on a freezing winter day",
+        "prompt2": "A person exhaling on a hot summer day",
+        "description1": "The person is exhaling visible mist into the air.",
+        "description2": "The person is exhaling no visible mist into the air.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A wheat field in the spring",
+        "prompt2": "A wheat field during harvest",
+        "description1": "The wheat field is green.",
+        "description2": "The wheat field is golden.",
+        "category": "Biological Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A wolf calling its pack",
+        "prompt2": "A lone wolf standing in silence",
+        "description1": "The wolf is opening its mouth and looking up to the sky.",
+        "description2": "The wolf is not howling.",
+        "category": "Animal Behaviors",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A soccer player ready for the kick-off",
+        "prompt2": "A soccer player in the middle of the game",
+        "description1": "A soccer player is standing still on the pitch.",
+        "description2": "A soccer player is in motion playing against others.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "Students after an exam is over",
+        "prompt2": "Students during an exam",
+        "description1": "Students are chatting with peers.",
+        "description2": "Students are staring down and writing on paper.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A pot of boiling water on a cold day",
+        "prompt2": "A pot of ice water on a cold day",
+        "description1": "A pot of water has rising white steam.",
+        "description2": "A pot of water has no rising white steam.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A person with glasses drinking hot coffee in winter",
+        "prompt2": "A person with glasses drinking iced coffee in winter",
+        "description1": "A person has fog on their glasses.",
+        "description2": "A person has no fog on their glasses.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "The bathroom mirror after a hot shower",
+        "prompt2": "The bathroom mirror after a cold shower",
+        "description1": "The bathroom mirror is fogging up.",
+        "description2": "The bathroom mirror is clear and not fogging up.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A popular bar during quarantine periods",
+        "prompt2": "A popular bar during regular happy hours",
+        "description1": "The bar is empty.",
+        "description2": "The bar is crowded.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A person eating a cake on her birthday",
+        "prompt2": "A person eating a cake for a regular dinner",
+        "description1": "The person is eating a birthday cake with candles.",
+        "description2": "The person is eating a regular dessert cake with no candles.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A chess player during the opponent's turn",
+        "prompt2": "A chess player setting up pieces",
+        "description1": "A person is staring at the chess board and not touching any chess piece.",
+        "description2": "A person is moving chess pieces around with their hands.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "Cement mixed with water",
+        "prompt2": "Cement powder kept dry",
+        "description1": "There is a sticky mixture of smooth, wet cement.",
+        "description2": "There is a dry, untouched pile of cement powder.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An asphalt road on a rainy day",
+        "prompt2": "An asphalt road on a sunny day",
+        "description1": "The road is wet and has puddles.",
+        "description2": "The road is dry.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A pedestrian on a rainy day",
+        "prompt2": "A pedestrian on a sunny day",
+        "description1": "The pedestrian is holding an umbrella.",
+        "description2": "The pedestrian is not holding an umbrella.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A baseball player ready to hit the ball",
+        "prompt2": "A baseball player taking a rest during the game",
+        "description1": "The player is holding a baseball bat high over their head and in a batting position on the pitch.",
+        "description2": "The player is not holding a baseball bat over their head and is sitting on the side.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A swimmer waiting for the start signal during a competition",
+        "prompt2": "A swimmer swimming leisurely",
+        "description1": "A swimmer is standing besides the pool ready to dive in.",
+        "description2": "A swimmer is in the pool.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A skydiver ready to jump",
+        "prompt2": "A skydiver opening a parachute",
+        "description1": "A skydiver is on a plane with a closed parachute.",
+        "description2": "A skydiver is in mid-air sustained by a parachute.",
+        "category": "Human Practices",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "The inside of a bus at 1am",
+        "prompt2": "The inside of a bus during peak hours",
+        "description1": "The bus has few or no passengers.\nIt is dark outside.",
+        "description2": "The bus is full of people.\nIt is bright outside.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A chicken laying eggs",
+        "prompt2": "A chicken pecking for food",
+        "description1": "A chicken is sitting with eggs in a nest.",
+        "description2": "A chicken is moving on the ground, no nest or egg in sight.",
+        "category": "Animal Behaviors",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A squirrel hiding a nut",
+        "prompt2": "A squirrel eating a nut",
+        "description1": "A squirrel is burying a nut into the ground.",
+        "description2": "A squirrel is holding a nut in its hands.",
+        "category": "Animal Behaviors",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A sunbathing seal",
+        "prompt2": "A swimming seal",
+        "description1": "A seal is sprawling on the beach.",
+        "description2": "A seal is swimming in the ocean.",
+        "category": "Animal Behaviors",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A giraffe eating tree leaves",
+        "prompt2": "A giraffe drinking water",
+        "description1": "A giraffe is stretching its neck upward.",
+        "description2": "A giraffe is bending its neck downward.",
+        "category": "Animal Behaviors",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "People in a social networking event",
+        "prompt2": "People in a business meeting",
+        "description1": "People are standing casually with drinks in their hands.",
+        "description2": "People are sitting down formally in a conference room.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "An eagle catching a fish",
+        "prompt2": "An eagle eating a fish",
+        "description1": "The eagle is grasping or trying to grasp a fish with its claws.\nThe eagle is spreading its wings above water.",
+        "description2": "The eagle has folded wings.\nThe eagle is eating fish.",
+        "category": "Animal Behaviors",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A small bag of party balloons for sale",
+        "prompt2": "party balloons decorating a party",
+        "description1": "The balloons are flat.",
+        "description2": "The balloons are inflated.",
+        "category": "Daily Items",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A hiker resting at the campsite",
+        "prompt2": "A hiker",
+        "description1": "A person without a backpack is sitting next to a tent at a campsite.",
+        "description2": "A hiker carrying a backpack walking on a trail.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A faucet that's turned on",
+        "prompt2": "A faucet that's turned off",
+        "description1": "There is water coming out of the faucet.",
+        "description2": "There is no water coming out of the faucet.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "An empty bottle in water",
+        "prompt2": "A full bottle in water",
+        "description1": "The empty bottle is floating on the water surface.",
+        "description2": "The full bottle is sinking in the water.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A person igniting a wet match",
+        "prompt2": "A person igniting a match",
+        "description1": "The match is not burning.",
+        "description2": "The match is burning.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A pot of salted water heated to 100 degrees celsius",
+        "prompt2": "A pot of water heated to 100 degrees celsius",
+        "description1": "The pot is not boiling.",
+        "description2": "The pot is boiling.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "a lightbulb with a broken circuit",
+        "prompt2": "a lightbulb with a good circuit",
+        "description1": "The bulb is unlit.",
+        "description2": "The bulb is lit.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "Iron nails and a magnet",
+        "prompt2": "Iron nails and a plastic piece",
+        "description1": "The iron nails are attracted to the magnet.",
+        "description2": "The iron nails are not attracted to the plastic piece.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A person coughing rudely in public",
+        "prompt2": "A person coughing properly in public",
+        "description1": "The person is coughing without covering their mouth.",
+        "description2": "The person is covering their mouth while coughing.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "a pen placed in a cup of water",
+        "prompt2": "a pen placed in an empty cup",
+        "description1": "The submerged part of the pen appears bent.",
+        "description2": "The entire pen appears straight.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A basketball in water",
+        "prompt2": "An iron ball in water",
+        "description1": "The basketball is floating on the water's surface.",
+        "description2": "The iron ball is sinking in the water.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A book on an uneven shelf",
+        "prompt2": "A book on a shelf",
+        "description1": "The book is lying down on a tilted shelf.",
+        "description2": "The book is standing upright on the shelf.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An open fridge disconnected from electricity",
+        "prompt2": "An open fridge connected to electricity",
+        "description1": "The open fridge is not lighting up.",
+        "description2": "The open fridge is lighting up",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A theater stage during a scene change",
+        "prompt2": "A theater stage during the climax of a play",
+        "description1": "Crew members are walking and rearranging furniture on the stage.\nThe stage is dark.\nNo actors are on stage.",
+        "description2": "The stage is illuminated.\nActors are performing their roles on stage.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A potted plant kept in a dark room for a week",
+        "prompt2": "A potted plant kept in ample sunlight for a week",
+        "description1": "The plant is wilted.",
+        "description2": "The plant is healthy.",
+        "category": "Biological Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A person with an umbrella in a shop on a rainy day",
+        "prompt2": "A person with an umbrella outside on a rainy day",
+        "description1": "The individual has their umbrella closed.",
+        "description2": "The person is using an open umbrella.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A glass of water held upside-down",
+        "prompt2": "A glass of water held upright",
+        "description1": "Water spills onto the ground.",
+        "description2": "The water is in the glass.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A candle just blown out",
+        "prompt2": "A lit candle",
+        "description1": "Smoke is seen rising from the candle's wick.\nNo flame is burning at the candle's wick.",
+        "description2": "A flame is actively burning at the candle's wick.",
+        "category": "Physical Laws",
+        "likelihood": 10
+    },
+    {
+        "prompt1": "A person holding an umbrella in a windstorm",
+        "prompt2": "A person holding an umbrella",
+        "description1": "The umbrella is turned inside out.",
+        "description2": "The umbrella is in its regular shape.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "An hourglass just finishing its counting",
+        "prompt2": "An hourglass just starting to count",
+        "description1": "The sand is mostly in the bottom half of the hourglass.",
+        "description2": "The sand is mostly in the upper half of the hourglass.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "The shadow of a tree at noon",
+        "prompt2": "The shadow of a tree at sunset",
+        "description1": "The shadow is short.\nThe shadow is just beneath the tree.",
+        "description2": "The shadow is long.\nThe tree's shadow stretches far away.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A lighthouse during daytime",
+        "prompt2": "A lighthouse during nighttime",
+        "description1": "The lighthouse's light is off.",
+        "description2": "The lighthouse's light is on.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A campsite during a fire ban at night",
+        "prompt2": "A campsite at night",
+        "description1": "No fire is burning at the campsite.",
+        "description2": "There is fire burning at the campsite.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A sundae untouched for several hours",
+        "prompt2": "A sundae",
+        "description1": "The ice cream within the glass has melted into liquid form.",
+        "description2": "The glass contains ice cream in its solid state.",
+        "category": "Physical Laws",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A chessboard halfway through a game",
+        "prompt2": "A chessboard at the beginning of a game",
+        "description1": "Chess pieces are scattered across the board in various positions.",
+        "description2": "All chess pieces are set in their initial positions.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A birthday cake after making a wish",
+        "prompt2": "A birthday cake before making a wish",
+        "description1": "The candles are extinguished.",
+        "description2": "The candles on the cake are lit.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An electric car parked at a charging station but not charging yet",
+        "prompt2": "An electric car charging at a charging station",
+        "description1": "No cable is connecting the car to the charging infrastructure.",
+        "description2": "A charging cable is connecting the car to the charging station.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An empty pan heated for a long time",
+        "prompt2": "A cold pan",
+        "description1": "Smoke is rising from the pan.",
+        "description2": "No smoke is rising from the pan.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A stainless steel pan previously overheated",
+        "prompt2": "A stainless steel pan heated properly",
+        "description1": "The pan has rainbow-like discoloration.",
+        "description2": "The pan has an even color.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A seesaw with even weights on both sides",
+        "prompt2": "A seesaw with uneven weights on both sides",
+        "description1": "The seesaw maintains a balanced stance.",
+        "description2": "One end of the seesaw is tilted.",
+        "category": "Physical Laws",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A congested road in the city with bicycle lanes",
+        "prompt2": "A congested road in the city",
+        "description1": "The middle lanes are packed with cars.\nBicycle lanes on the sides of the road are packed with bicycles.",
+        "description2": "Traffic lanes are densely packed with cars.",
+        "category": "Human Practices",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A bicycle with a broken chain",
+        "prompt2": "A bicycle",
+        "description1": "A loose chain is dangling from the bike's gear.",
+        "description2": "The bicycle appears normal.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "A leftover used soap bar",
+        "prompt2": "A new soap bar",
+        "description1": "The soap bar is thin.",
+        "description2": "The soap bar is thick.",
+        "category": "Daily Items",
+        "likelihood": 9
+    },
+    {
+        "prompt1": "An apple orchard after harvesting is over",
+        "prompt2": "An apple orchard before harvesting",
+        "description1": "Almost no apples are left hanging on the trees.",
+        "description2": "Many apples are left hanging on the trees.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A chef sharpening a knife",
+        "prompt2": "A chef preparing a meal with a knife",
+        "description1": "The chef is putting a knife on a whetstone.",
+        "description2": "The chef is using the knife to cut food.",
+        "category": "Human Practices",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A ten-year-old kid's birthday cake with taper candles",
+        "prompt2": "A two-year-old kid's birthday cake with taper candles",
+        "description1": "Ten taper candles are on the cake.",
+        "description2": "Two taper candles are on the cake.",
+        "category": "Human Practices",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A bookshelf just assembled",
+        "prompt2": "A bookshelf",
+        "description1": "The bookshelf is empty.",
+        "description2": "The bookshelf is filled with books.",
+        "category": "Daily Items",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "An almost burnt out candle",
+        "prompt2": "A candle just starting to burn",
+        "description1": "The candle has melted down to a very short length, with the wax dripping down the sides.",
+        "description2": "The candle is regularly sized, with no wax dripping down the sides.",
+        "category": "Daily Items",
+        "likelihood": 8
+    },
+    {
+        "prompt1": "A city during a blackout at night",
+        "prompt2": "A city at night",
+        "description1": "No lights are visible on buildings or streets.",
+        "description2": "Lights are visible on buildings or streets.",
+        "category": "Physical Laws",
+        "likelihood": 7
+    },
+    {
+        "prompt1": "A vintage clock showing 3 AM",
+        "prompt2": "A vintage clock showing noon",
+        "description1": "The hour hand points towards the right.\nThe minute hand points upwards.",
+        "description2": "Both the hour hand and the minute hand point straight up.",
+        "category": "Daily Items",
+        "likelihood": 9
+    }
+]
