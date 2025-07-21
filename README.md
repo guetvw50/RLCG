@@ -111,8 +111,10 @@ python evaluate.py \
 <p align="center">
   <img src="asset/2.png" alt="Example Output" width="800"/>
 </p>
+<p align="center">
+  <img src="asset/4.png" alt="Example Output" width="800"/>
+</p>
 
----
 
 ## 📊 实验结果（Commonsense-T2I）
 
