@@ -17,6 +17,16 @@
 
 ---
 
+## 🖼️ 示例图像
+
+下图展示了本项目通过 RLCG 提示词优化后生成的图像示例：
+
+<p align="center">
+  <img src="asset/1.png" alt="Example Output" width="800"/>
+</p>
+
+---
+
 ## 📁 项目结构
 
 ```
@@ -98,22 +108,17 @@ python evaluate.py \
 ---
 
 ## 🖼️ 示例图像
-
-| 原始提示词图像 | 优化后提示词图像 |
-|----------------|------------------|
-| ![](examples/original/lightbulb.png) | ![](examples/optimized/lightbulb.png) |
-| ![](examples/original/peacock_sleeping.png) | ![](examples/optimized/peacock_sleeping.png) |
+<p align="center">
+  <img src="asset/2.png" alt="Example Output" width="800"/>
+</p>
 
 ---
 
 ## 📊 实验结果（Commonsense-T2I）
 
-| 模型            | 原始（GPT-4o） | RLCG 提升后 |
-|-----------------|----------------|-------------|
-| SD-3            | 21.67          | **29.50**   |
-| SD-XL           | 25.17          | **27.83**   |
-| DALL-E 3        | 48.83          | **51.50**   |
-| OpenJourney v4  | 22.33          | **29.33**   |
+<p align="center">
+  <img src="asset/3.png" alt="Example Output" width="800"/>
+</p>
 
 > 🎯 在多个 T2I 模型中均显著提升图像常识性与语义一致性
 
@@ -129,30 +134,48 @@ python evaluate.py \
 
 ## 📄 引用本项目
 
-如果本项目对您的研究有帮助，请引用以下论文：
+如果您在研究中使用了本项目的代码或思想，欢迎参考以下引用格式：
 
-```bibtex
-@article{dong2025counterfactual,
-  title={Counterfactual-Guided Reinforcement Learning Framework for Prompt Optimization: Enhancing Text-to-Image Consistency},
-  author={Dong, Rongsheng and Ning, Yuyang and Li, Fengying},
-  journal={ArXiv preprint arXiv:2406.XXXX},
-  year={2025}
-}
-```
+> Dong R., Ning Y., Li F.  
+> *Counterfactual-Guided Reinforcement Learning Framework for Prompt Optimization: Enhancing Text-to-Image Consistency*  
+> Manuscript in preparation, 2025.
+
 
 ---
 
-## 🤝 致谢
+## 🙏 致谢（Acknowledgements）
 
-本项目感谢以下开源项目提供的支持：
+本项目构建过程中参考并使用了以下开源模型、工具和数据集，特此致谢：
 
-- [Stable Diffusion (CompVis)](https://github.com/CompVis/stable-diffusion)
-- [CLIPScore](https://github.com/rajashekar/CLIPScore)
-- [GLM4-Plus](https://github.com/THUDM/GLM)
-- [Commonsense-T2I](https://huggingface.co/datasets/CommonsenseT2I)
+- 🖼 **Stable Diffusion XL (SD-XL)** & **Stable Diffusion 3 (SD-3)**  
+  高质量文本到图像生成模型，由 Stability AI 发布。
+
+- 🎨 **Openjourney v4**  
+  基于 Midjourney 风格调优的 Stable Diffusion 模型，由 PromptHero 社区提供。
+
+- 🧪 **Flux Schnell**  
+  来自 Black Forest Labs 的文本图像生成模型，用于风格对比实验。
+
+- 🌌 **DALL·E 3**  
+  OpenAI 发布的最新文本图像生成系统，用于对比原始与优化提示词生成效果。
+
+- 📐 **CLIPScore**  
+  图文语义相似度评估指标，用于自动评估图像与提示词的一致性。
+
+- 🧠 **GLM4-Plus**  
+  由清华大学和智谱 AI 联合开发的大型语言模型，用于反事实问题生成与推理。
+
+- 📊 **Commonsense-T2I Dataset**  
+  来自 UIUC & UPenn 的开放数据集，专用于评估 T2I 模型的常识理解能力。  
+  📍 [https://huggingface.co/datasets/CommonsenseT2I](https://huggingface.co/datasets/CommonsenseT2I)
+
+我们特别感谢上述开源项目提供了强大的基础与评估支持，使本研究得以顺利进行。
 
 ---
 
 ## 🪪 License
 
-本项目采用 MIT License 进行开源发布，允许学术用途和再研究，商业使用请联系作者。
+本项目采用 [MIT License](https://opensource.org/licenses/MIT) 进行开源发布。  
+允许自由用于研究、教学与商业应用，惟须保留作者署名与原始声明。  
+如果本项目对您的研究有帮助，请在论文或代码中引用本仓库。
+
